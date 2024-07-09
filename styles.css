@@ -6,10 +6,10 @@
 
  .slider img{ 
     width: 100%;
-    /* display: none; */
+     display: none; 
  } 
 
-/* img.displaySlide{ 
+ img.displaySlide{ 
  display: block;
  animation-name: fades;
  animation-duration: 1.5s;
@@ -38,4 +38,4 @@
  @keyframes fades { 
     from{opacity: .5}
     to{opacity: 1}
- } */
+ } 
